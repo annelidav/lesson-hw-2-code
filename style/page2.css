@@ -1,0 +1,28 @@
+.page2 {
+  padding: 80px 120px;
+  font-size: 0;
+  display: inline-block;
+}
+.page2__right {
+  width: 50%;
+  display: inline;
+  vertical-align: middle;
+  float: right;
+}
+.page2__title {
+  margin-bottom: 24px;
+}
+.page2__text1 {
+  margin-bottom: 16px;
+}
+.page2__text2 {
+  margin-bottom: 32px;
+}
+.page2__button {
+  margin-bottom: 105px;
+}
+.page2__image2 {
+  vertical-align: middle;
+  display: inline;
+  float: left;
+}

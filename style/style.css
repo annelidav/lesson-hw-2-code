@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo,
+.menu,
+.button,
+.menu-item,
+.main {
+  display: inline-block;
+}
+body {
+  font-family: Inter, sans-serif;
+  max-width: 100%;
+}
+
+.logo {
+  width: 14%;
+}
+.menu {
+  width: 70%;
+  text-align: center;
+}
+.header {
+  padding: 37px 120px 120px 35px;
+  margin-left: 120px;
+}
+.button {
+  font-family: inherit;
+  background: #0e1734;
+  border: none;
+  padding: 16px 32px;
+  color: white;
+  border-radius: 5px;
+}
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 5px;
+}
+.menu-item {
+  margin-right: 20px;
+}
+.menu-item:last-child {
+  margin-right: 0;
+}
+
+.title {
+  font-size: 48px;
+  color: #192252;
+  font-family: "Montserrat", sans-serif;
+  line-height: 150%;
+}
+.text {
+  color: #848fac;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  line-height: 150%;
+}
